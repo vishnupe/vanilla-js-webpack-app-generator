@@ -1,1 +1,1 @@
-# bash create-app.sh <app-name>
+# bash create-app.sh app-name
